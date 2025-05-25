@@ -93,7 +93,6 @@ st.session_state.api_key = st.sidebar.text_input(
 AVAILABLE_MODELS = {
     "Mistral 7B": "mistralai/mistral-7b-instruct:free",
     "Deepseek v3-0324": "deepseek/deepseek-chat-v3-0324:free",
-    "Gemini 2.0 Flash": "google/gemini-2.0-flash-exp:free"
 }
 
 if "selected_model" not in st.session_state:
