@@ -5,6 +5,10 @@ import uuid
 import json
 import os
 
+# ========== Title halaman ==========
+st.set_page_config(page_title="Multi Model Chatbot", page_icon="🧠")
+st.title("🧠 Multi Model Chatbot")
+
 # ========== Konstanta ==========
 FILE_SESSION = "sessions_data.json"
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
