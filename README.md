@@ -30,4 +30,6 @@ Aplikasi chatbot AI berbasis [Streamlit](https://streamlit.io/) yang mendukung *
 
 ## 📽️ Preview APP
 
+https://multimodelchatbot.streamlit.app/
+
 ![Image](https://github.com/user-attachments/assets/1b61a585-4d5b-41c4-a935-55eb1e1ec0f5)
