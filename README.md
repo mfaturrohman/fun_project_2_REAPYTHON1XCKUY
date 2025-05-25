@@ -30,4 +30,4 @@ Aplikasi chatbot AI berbasis [Streamlit](https://streamlit.io/) yang mendukung *
 
 ## 📽️ Preview APP
 
-https://github.com/user-attachments/assets/6f9ce28f-db6f-430b-b5ea-2598dd2362b5
+![Image](https://github.com/user-attachments/assets/1b61a585-4d5b-41c4-a935-55eb1e1ec0f5)
