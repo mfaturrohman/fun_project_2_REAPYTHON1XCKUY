@@ -7,7 +7,6 @@ import os
 
 # ========== Title halaman ==========
 st.set_page_config(page_title="Multi Model Chatbot", page_icon="🧠")
-st.title("🧠 Multi Model Chatbot")
 
 # ========== Konstanta ==========
 FILE_SESSION = "sessions_data.json"
